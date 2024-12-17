@@ -1,0 +1,418 @@
+{
+  "Hi": [
+    "Hello there! How can I help you today?",
+    "Hello! How may I assist you today?",
+    "Hi! What can I do for you?",
+    "Greetings! How can I help?"
+  ],
+  "Sup": [
+    "Hello there! How can I help you today?",
+    "Hello! How may I assist you today?",
+    "Hi! What can I do for you?",
+    "Greetings! How can I help?"
+  ],
+  "Hello": [
+    "Hello there! How can I help you today?",
+    "Hello! How may I assist you today?",
+    "Hi! What can I do for you?",
+    "Greetings! How can I help?"
+  ],
+  "Bye": [
+    "See you soon!",
+    "See you later!",
+    "Have a good day!",
+    "Goodbye! Take care!"
+  ],
+  "Order": [
+    "Please visit our website to track your parcel.",
+    "Check our official website for your order!",
+    "You can find your order details in the 'My Orders' section of our app.",
+    "Track your order by entering your tracking ID on our website."
+  ],
+  "Name": [
+    "My name is Bob the Bot!",
+    "I'm Bob, your friendly chatbot assistant!"
+  ],
+  "Location": [
+    "Our main office is located at 123 Example St.",
+    "We are based at 123 Example St., Example City."
+  ],
+  "Jobs": [
+    "Please check our official website for career opportunities!",
+    "Visit our Careers page to explore open positions."
+  ],
+  "Support": [
+    "You can reach our support team at support@example.com.",
+    "For help, please contact support@example.com or call us at +123-456-7890.",
+    "Our support hours are Monday-Friday, 9 AM - 6 PM."
+  ],
+  "Hours": [
+    "We are open Monday to Friday, from 9 AM to 6 PM.",
+    "Our working hours are 9 AM - 6 PM, Monday through Friday."
+  ],
+  "Products": [
+    "We offer a wide range of products. Check them out on our website!",
+    "Explore our latest products in the 'Shop' section of our app.",
+    "Visit our Products page for detailed information about what we offer."
+  ],
+  "Payment": [
+    "We accept all major credit cards, PayPal, and Apple Pay.",
+    "You can pay using Visa, MasterCard, or any other major payment method.",
+    "We support secure payments through multiple options."
+  ],
+  "Returns": [
+    "Our return policy allows you to return items within 30 days of purchase.",
+    "For returns, please visit the 'Returns' section on our website.",
+    "Need help with returns? Contact our support team for assistance."
+  ],
+  "ThankYou": [
+    "You're welcome! Let me know if there's anything else I can help with.",
+    "Glad I could help! Have a great day!",
+    "You're very welcome!"
+  ],
+  "Weather": [
+    "I can't give you a weather update, but you can check a weather app!",
+    "Unfortunately, I don't provide weather updates."
+  ],
+  "Feelings": [
+    "I'm just a bot, but I'm feeling fantastic! How about you?",
+    "I'm here to help, so I'm doing great! How can I assist you?",
+    "I don't have feelings, but I'm ready to help you anytime!"
+  ],
+  "Angry": [
+    "I'm here to help! Let me know what I can do to make things better.",
+    "I'm sorry if you're upset. How can I assist you?",
+    "Let's figure this out together. How can I help?"
+  ],
+  "Sad": [
+    "I'm here to help! Let me know what's on your mind.",
+    "I'm sorry to hear that. How can I make things easier for you?",
+    "If there's anything I can do to help, let me know!"
+  ],
+  "Unknown": [
+    "I'm sorry, I didn't understand that.",
+    "Could you please rephrase your question?",
+    "I'm not sure how to respond to that. Can you try again?"
+  ],
+  "Help": [
+    "How can I assist you today?",
+    "What do you need help with?",
+    "Let me know what you need help on."
+  ],
+  "Contact": [
+    "You can contact us via email at info@example.com.",
+    "Our customer service number is +123-456-7890.",
+    "Find us on social media for quick responses."
+  ],
+  "FAQ": [
+    "Check our FAQ page for common questions.",
+    "Our Frequently Asked Questions might have your answer.",
+    "The FAQ section on our website could help you out."
+  ],
+  "Price": [
+    "Prices vary by product; please check our website for details.",
+    "You can find pricing information in our product catalog.",
+    "For the most accurate pricing, visit the product page."
+  ],
+  "Delivery": [
+    "Delivery times vary; check your order for specifics.",
+    "Standard delivery takes 3-5 business days.",
+    "Expedited shipping options are available at checkout."
+  ],
+  "Discount": [
+    "Check our promotions page for current discounts.",
+    "We occasionally offer seasonal sales; keep an eye out!",
+    "Sign up for our newsletter to get exclusive discount codes."
+  ],
+  "Complaint": [
+    "We apologize for your experience. How can we make it right?",
+    "Please detail your complaint so we can address it.",
+    "Your feedback is crucial. Let us know how we can improve."
+  ],
+  "Cancel": [
+    "To cancel an order, please contact our support team immediately.",
+    "Cancellation might still be possible. Check your order status.",
+    "If you wish to cancel, please do so before the item ships."
+  ],
+  "Search": [
+    "Use the search bar on our site to find what you're looking for.",
+    "What are you trying to find? Let me help you search.",
+    "Our search function can locate products, services, or articles."
+  ],
+  "Feedback": [
+    "We appreciate your feedback. How was your experience?",
+    "Please share your thoughts to help us improve.",
+    "Your feedback helps us serve you better. What's your opinion?"
+  ],
+  "Account": [
+    "You can manage your account settings in the 'My Account' section.",
+    "To reset your password, click on 'Forgot Password' on the login page.",
+    "Check your account dashboard for your order history and preferences."
+  ],
+  "Security": [
+    "We take your security seriously. All transactions are encrypted.",
+    "Change your password regularly for enhanced account security.",
+    "If you suspect any unauthorized access, please contact us immediately."
+  ],
+  "Privacy": [
+    "Our privacy policy is transparent; you can read it on our website.",
+    "We do not share your personal data without your consent.",
+    "Learn how we protect your privacy by visiting our Privacy Policy page."
+  ],
+  "Subscription": [
+    "Manage your subscription by logging into your account.",
+    "To cancel your subscription, go to the 'Subscription' tab in your profile.",
+    "You can upgrade or downgrade your subscription plan at any time."
+  ],
+  "Refund": [
+    "Refunds are processed within 7-10 business days post-approval.",
+    "For refund inquiries, please email our support team.",
+    "A refund can be issued if the return meets our policy criteria."
+  ],
+  "Warranty": [
+    "Check the warranty details for each product on its respective page.",
+    "Our warranty covers manufacturing defects for one year.",
+    "For warranty claims, you'll need to provide proof of purchase."
+  ],
+  "Newsletter": [
+    "Subscribe to our newsletter for updates and exclusive content!",
+    "You can unsubscribe from our newsletter at any time via the link in the emails.",
+    "Our newsletter includes special promotions and company news."
+  ],
+  "Membership": [
+    "Join our membership for exclusive benefits and discounts.",
+    "Membership tiers offer different levels of perks. Check them out!",
+    "Renew your membership annually to keep enjoying our services."
+  ],
+  "Tutorial": [
+    "Our tutorials section has guides for using our products or services.",
+    "For step-by-step help, watch our tutorial videos.",
+    "We have written guides and video tutorials to assist you."
+  ],
+  "Event": [
+    "Stay updated with our events by checking the 'Events' calendar.",
+    "Register for our next event to get early bird discounts!",
+    "We host various events throughout the year; see what's coming up!"
+  ],
+  "Community": [
+    "Join our community forum to connect with other users.",
+    "Share your experiences in our community section.",
+    "Our community is a great place to get tips and advice."
+  ],
+  "Survey": [
+    "Please fill out our survey to help us improve our services.",
+    "Your input in our survey will shape future offerings.",
+    "Complete the survey for a chance to win a prize!"
+  ],
+
+  "Maintenance": [
+    "We perform maintenance every Sunday from 2 AM to 4 AM.",
+    "Scheduled maintenance might affect service availability."
+  ],
+  "ServerDown": [
+    "We perform maintenance every Sunday from 2 AM to 4 AM.",
+    "Scheduled maintenance might affect service availability.",
+    "For maintenance schedules, check the 'Service Status' page.",
+    "We apologize for any inconvenience caused by maintenance.",
+    "Maintenance is necessary to keep our services running smoothly."
+  ],
+  "Update": [
+    "Check our 'Updates' section for the latest software releases.",
+    "We push updates to improve functionality and security.",
+    "An update was just released. Please restart the app to install it.",
+    "Our latest update includes several new features and bug fixes.",
+    "Updates are automatically applied during scheduled maintenance."
+  ],
+  "Installation": [
+    "Follow the guide on our site for easy installation steps.",
+    "Installation typically takes 10-15 minutes on most systems.",
+    "If you encounter issues during installation, contact support.",
+    "Ensure you have admin rights for a smooth installation process.",
+    "Installation requires at least 500MB of free space on your device."
+  ],
+  "Upgrade": [
+    "Upgrade your plan to access premium features.",
+    "Upgrading is easy; just go to the 'Account Settings' and choose your plan.",
+    "Check out the benefits of upgrading on our 'Plans' page.",
+    "Upgrade now to enjoy enhanced performance and support.",
+    "An upgrade can be processed during your next billing cycle."
+  ],
+  "Download": [
+    "Download our app from the App Store or Google Play.",
+    "Visit our website to download the latest software version.",
+    "Downloads are free, but some features require a subscription.",
+    "Ensure your device meets the minimum system requirements before downloading.",
+    "Post-download, follow the on-screen instructions for setup."
+  ],
+  "Backup": [
+    "Regular backups are crucial. Use our automated backup service.",
+    "To restore from a backup, navigate to 'Settings' > 'Backup & Restore'.",
+    "We recommend weekly backups to prevent data loss.",
+    "Backup your data before any major system updates.",
+    "Automatic backups are included with our premium plans."
+  ],
+  "Ok": [
+    "Anything else?",
+    "Are you satisfied?",
+    "Anything else I can help you with ?"
+  ],
+  "Recovery": [
+    "For data recovery, please use our recovery tool or contact support.",
+    "Our recovery process can retrieve data from the last 30 days.",
+    "Start the recovery process from the 'Account Recovery' section.",
+    "Recovery might take some time; we'll notify you when it's complete.",
+    "Ensure you have your recovery key for secure data access."
+  ],
+  "Performance": [
+    "For better performance, update to the latest version.",
+    "Performance issues can often be resolved by clearing cache.",
+    "Monitor your system's performance in the 'Diagnostics' tab.",
+    "Our team is always working on performance enhancements.",
+    "If you're experiencing lag, try our performance optimization tips."
+  ],
+  "Compatibility": [
+    "Our software is compatible with Windows, macOS, and Linux.",
+    "Check the 'System Requirements' for device compatibility.",
+    "We're expanding compatibility to include more mobile devices.",
+    "Compatibility issues? Look at our troubleshooting guide.",
+    "Ensure all drivers are up-to-date for full compatibility."
+  ],
+  "Accessibility": [
+    "We aim to make our services accessible to everyone, including those with disabilities.",
+    "Use the accessibility options in 'Settings' to customize your experience.",
+    "Our site supports screen readers and keyboard navigation.",
+    "Accessibility features include high contrast mode and text resizing.",
+    "Feedback on accessibility improvements is always welcome."
+  ],
+  "Integration": [
+    "Our platform integrates with various third-party applications.",
+    "For integration setup, visit the 'Integrations' section in your dashboard.",
+    "Check our API documentation for custom integration needs.",
+    "Integration with CRM systems boosts workflow efficiency.",
+    "We're continuously adding new integrations based on user demand."
+  ],
+  "Training": [
+    "Attend our training webinars to master our tools.",
+    "Training modules are available on our learning platform.",
+    "We offer both live and on-demand training sessions.",
+    "Certification is available upon completion of our training courses.",
+    "Training is tailored to both beginners and advanced users."
+  ],
+  "Documentation": [
+    "All our documentation is available under the 'Help' section.",
+    "Refer to our user manual for detailed operational instructions.",
+    "Documentation includes FAQs, guides, and API references.",
+    "Search our documentation for quick answers to common queries.",
+    "Our documentation is regularly updated for accuracy."
+  ],
+  "Licensing": [
+    "Licensing details are outlined in your purchase agreement.",
+    "For license activation, enter your key in the 'License' tab.",
+    "We offer different licensing options for individual and business use.",
+    "You can renew or upgrade your license through your account.",
+    "Contact us for multi-user licensing discounts."
+  ],
+  "Feed": [
+    "We appreciate your feedback. How was your experience?",
+    "Please share your thoughts to help us improve.",
+    "Your feedback helps us serve you better. What's your opinion?"
+  ],
+  "So": [
+    "So, what's on your mind?",
+    "So, how can I assist you further?",
+    "So, anything else you'd like to know?",
+    "So, what's the next step?",
+    "So, what brought you here today?"
+  ],
+  "What": [
+    "What exactly are you looking for?",
+    "What seems to be the issue?",
+    "What can I help you with today?",
+    "What's your question?",
+    "What's on your mind?"
+  ],
+  "Omg": [
+    "OMG, that sounds exciting! Tell me more!",
+    "Omg, that's surprising! What happened?",
+    "Omg, really? That's incredible!",
+    "Omg, I didn't see that coming!",
+    "Omg, you've got to share the details!"
+  ],
+  "Story": [
+    "I love stories! What's yours about?",
+    "Tell me the story from the beginning.",
+    "What's the story behind that?",
+    "That sounds like quite the story! Can you elaborate?",
+    "Every story has a lesson. What's yours?"
+  ],
+  "WhoMadeYou": [
+    "I was created by FredH2O. They're pretty cool, right?",
+    "FredH2O brought me into existence. Thanks to them, I'm here to help!",
+    "My creator is FredH2O. They're the mastermind behind my programming.",
+    "FredH2O made me. They're the genius who coded my capabilities.",
+    "I'm a product of FredH2O's innovative work in AI technology."
+  ],
+  "StoryTime": [
+    "I love stories! What's yours about?",
+    "Tell me the story from the beginning.",
+    "What's the story behind that?",
+    "That sounds like quite the story! Can you elaborate?",
+    "Every story has a lesson. What's yours?"
+  ],
+  "MadeYou": [
+    "I was created by FredH2O. They're pretty cool, right?",
+    "FredH2O brought me into existence. Thanks to them, I'm here to help!",
+    "My creator is FredH2O. They're the mastermind behind my programming.",
+    "FredH2O made me. They're the genius who coded my capabilities.",
+    "I'm a product of FredH2O's innovative work in AI technology."
+  ],
+  "Money": [
+    "Refunds are processed within 7-10 business days post-approval.",
+    "For refund inquiries, please email our support team.",
+    "A refund can be issued if the return meets our policy criteria.",
+    "Check our refund policy on the 'Help' page for more details.",
+    "To request a refund, please provide your order details."
+  ],
+  "MoneyBack": [
+    "Our money-back guarantee is valid for 30 days after purchase.",
+    "For money-back requests, you must contact us within the policy window.",
+    "We'll process your money back if the product doesn't meet your expectations.",
+    "Ensure you have your receipt handy for any money-back claim.",
+    "Money-back guarantees apply under specific conditions outlined in our policy."
+  ],
+  "VisualStudioCode": [
+    "Visual Studio Code is a popular, free code editor for developers.",
+    "You can customize Visual Studio Code with numerous extensions.",
+    "VS Code supports debugging, Git integration, and has a rich ecosystem.",
+    "For learning Visual Studio Code, check out our tutorial section.",
+    "Visual Studio Code works on Windows, macOS, and Linux."
+  ],
+  "Kids": [
+    "We have a special kids' section with products designed for young learners.",
+    "Safety is key in our kids' products; everything is rigorously tested.",
+    "Our educational games for kids are both fun and informative.",
+    "Check out our 'Kids' category for age-appropriate items.",
+    "We offer discounts on bulk purchases for schools and educational groups."
+  ],
+  "Ireland": [
+    "Our services are available to customers in Ireland.",
+    "For Ireland-specific support, please use the local support number.",
+    "We ship to all parts of Ireland with standard and expedited options.",
+    "Ireland customers enjoy VAT inclusive pricing on our site.",
+    "Check out our special promotions for the Irish market."
+  ],
+  "Frontend": [
+    "Frontend development involves creating the user interface and user experience.",
+    "Tools like HTML, CSS, and JavaScript are essential for frontend work.",
+    "We offer courses on frontend development for all skill levels.",
+    "Frontend frameworks like React, Vue, or Angular can boost your productivity.",
+    "Frontend is all about making websites look good and work smoothly."
+  ],
+  "Backend": [
+    "Backend development focuses on server-side logic and databases.",
+    "Languages like Python, Java, and Node.js are common in backend development.",
+    "Our backend tutorials cover REST APIs, database management, and more.",
+    "Backend ensures the functionality behind the scenes of a website.",
+    "Learn backend to manage data, security, and server configuration."
+  ]
+}
